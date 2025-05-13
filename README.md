@@ -17,11 +17,6 @@ GoChat is a real-time chat application built using the MERN stack (MongoDB, Expr
 # Prerequisites
 Node.js<br>
 MongoDB<br>
-# Environment Variables
-Create a .env file in the server directory:<br>
-PORT=5000<br>
-MONGODB_URI=your_mongodb_connection_string<br>
-JWT_SECRET=your_jwt_secret<br>
 # Installation
 git clone https://github.com/PriyashaNarang/GoChat.git<br>
 cd frontend<br>

@@ -8,7 +8,7 @@ GoChat is a real-time chat application built using the MERN stack (MongoDB, Expr
 • Responsive design with Tailwind CSS<br>
 • Smooth scrolling and auto-scroll to latest message<br>
 # Tech Stack
-•Frontend: React, Tailwind CSS<br>
+• Frontend: React, Tailwind CSS<br>
 • Backend: Node.js, Express.js<br>
 • Database: MongoDB<br>
 • Real-time Communication: Socket.IO<br>
@@ -23,7 +23,7 @@ PORT=5000<br>
 MONGODB_URI=your_mongodb_connection_string<br>
 JWT_SECRET=your_jwt_secret<br>
 # Installation
-git clone https://github.com/your-username/GoChat.git<br>
+git clone https://github.com/PriyashaNarang/GoChat.git<br>
 cd frontend<br>
 npm install<br>
 cd backend<br>

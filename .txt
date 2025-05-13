@@ -1,0 +1,4 @@
+*** message model ***
+sender _id
+receiver _id
+message
